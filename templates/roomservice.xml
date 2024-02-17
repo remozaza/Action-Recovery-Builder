@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--project name="{DEVICE_TREE_URL_REPO}" path="{DEVICE_PATH}" remote="{DEVICE_REMOTE_NAME}" revision="{DEVICE_TREE_BRANCH}"/-->
+  <project name="https://github.com/remozaza/android_device_xiaomi_sapphiren/tree/android-12.1" path="device/xiaomi/sapphiren" remote="android_device_xiaomi_sapphiren" revision="android-12.1"/>
 </manifest>
